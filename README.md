@@ -16,11 +16,11 @@ I worked on a few projects that gave me experience in NodeJS, Python, Java, SQL 
 Find me on : 
 
 
-
+<!-- 
 [![Github](https://img.shields.io/github/followers/Eliorbasli?label=Follow&style=social)](https://github.com/Eliorbasli)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Eliorbasli.Eliorbasli)
-
+ -->
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -41,7 +41,6 @@ Find me on :
   
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliorbasli&theme=tokyonight) -->
 
 
 
