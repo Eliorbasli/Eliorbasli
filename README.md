@@ -17,7 +17,7 @@ Find me on :
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Eliorbasli.Eliorbasli)
+[![Github](https://img.shields.io/github/followers/Eliorbasli?label=Follow&style=social)](https://github.com/Eliorbasli)
 
 Languages and Tools: 
 
