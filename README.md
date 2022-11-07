@@ -19,6 +19,8 @@ Find me on :
 
 [![Github](https://img.shields.io/github/followers/Eliorbasli?label=Follow&style=social)](https://github.com/Eliorbasli)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Eliorbasli.Eliorbasli)
+
 Languages and Tools: 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliorbasli&theme=tokyonight)
