@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Eliorbasli
 
-A passinoate backend developer from Israel
-💪 I'm team player. 
-🦾 love to write code and slove problems
-📘 like to learn new things
-🤝 I'm looking collaborate with anyone on any project.
-❔ Ask me about anything
+- A passinoate backend developer from Israel
+- 💪 I'm team player. 
+- 🦾 love to write code and slove problems
+- 📘 like to learn new things
+- 🤝 I'm looking collaborate with anyone on any project.
+- ❔ Ask me about anything
 
 Hi ,
 I'm passionate Full Stack developer with strong desire to leran and grow. 
