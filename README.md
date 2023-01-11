@@ -14,6 +14,8 @@ Experienced in working under pressure, teamwork.
 I worked on a few projects that gave me experience in NodeJS, Python, Java, SQL and NoSQL.
 
 Find me on : 
+Linkedin - https://www.linkedin.com/in/elior-basli/
+Email - eliorbasli@gmail.com
 
 
 <!-- 
